@@ -16,6 +16,7 @@ public class AdditionMatrix {
 				//System.out.print(c[i][j]+" ");
 				
 				System.out.print(a[i][j]+b[i][j]+" ");
+				System.out.println(Priyanka....)
 			}
 			System.out.println("Changes added buy sneha");
 		}
